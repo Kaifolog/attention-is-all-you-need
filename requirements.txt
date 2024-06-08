@@ -1,0 +1,9 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+datasets==2.18.0
+evaluate==0.4.2
+rouge_score==0.1.2
+tokenizers==0.19.1
+torch==2.3.0+cu118
+tqdm==4.64.1
+matplotlib==3.7.0
